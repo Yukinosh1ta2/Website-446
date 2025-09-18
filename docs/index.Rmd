@@ -1,7 +1,8 @@
 ---
-title: "website for 446"
-output: html_document
-date: "2025-09-18"
+title: "This is a tufte_html Themes YAML from `tufte` Package"
+author: "Type your name here"
+date: "`r Sys.Date()`"
+output: tufte::tufte_html
 ---
 
 ```{r setup, include=FALSE}
