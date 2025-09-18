@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1345852/e9ceb49a3b3b43699738924749a2a38c
+bundleId: https://api.rpubs.com/api/v1/document/1345852/e9ceb49a3b3b43699738924749a2a38c
+url: http://rpubs.com/Yukinoshita/1345852
+version: 1
